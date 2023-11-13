@@ -3,6 +3,7 @@ import "./style.css";
 const BoxWhiteLogin = () => {
   return <div id="boxWhiteLogin">
     <h1 id="title-app">Agendamento de Ambientes Educacionais</h1>
+    <h2 id="title-login">Login</h2>
     <div id="boxWhiteLogin-gradiant">
       <img id="art" src="public\art.png" alt="mulher com computador" />
     </div>
