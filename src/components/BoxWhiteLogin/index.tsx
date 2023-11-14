@@ -1,3 +1,4 @@
+import InputLogin from "../InputLogin";
 import "./style.css";
 
 const BoxWhiteLogin = () => {
@@ -9,6 +10,9 @@ const BoxWhiteLogin = () => {
     </div>
       <img id="art-mobile" src="public\art-mobile.png" alt="mulher com computador" />
       <img id="logo-senai" src="public\logo-senai.png" alt="logomarca do Senai" />
+      <InputLogin image={"public/icon-login-email.svg"} type={"email"} alt={"ícone input de email"} idImg={"img-input-login-email"} idInput={"input-login-email"}/>
+      <InputLogin image={"public/icon-login-password.png"} type={"password"} alt={"ícone input de senha"} idImg={"img-input-login-password"} idInput={"input-login-password"}/>
+      <button type="submit" id="button-login">Continuar</button>
   </div>;
 };
 

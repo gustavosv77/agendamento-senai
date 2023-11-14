@@ -54,6 +54,16 @@
     line-height: normal;
   }
 
+  #button-login {
+    margin-top: 224px;
+    margin-left: 23px;
+    width: 237px;
+    height: 50px;
+    background: linear-gradient(120deg, #198de1fa 26.64%, #81bce736 79.42%);
+    border-radius: 20px;
+    border: none;
+  }
+
   #art {
     display: none;
   }
@@ -194,6 +204,16 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+  }
+
+  #button-login {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 237px;
+    height: 50px;
+    background: linear-gradient(120deg, #198de1fa 26.64%, #81bce736 79.42%);
+    border-radius: 20px;
+    border: none;
   }
 
   #art-mobile {
