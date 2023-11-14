@@ -55,13 +55,21 @@
   }
 
   #button-login {
-    margin-top: 224px;
-    margin-left: 23px;
+    position: absolute;
+    margin-top: 497px;
+    margin-left: -190px;
     width: 237px;
     height: 50px;
-    background: linear-gradient(120deg, #198de1fa 26.64%, #81bce736 79.42%);
-    border-radius: 20px;
+    background: linear-gradient(180deg, #1E90E2 27.6%, #1e90e27a 73.44%); 
+    border-radius: 30px;
     border: none;
+    color: #fff;
+    font-family: Sansation;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
   }
 
   #art {
@@ -112,7 +120,7 @@
     color: #fff;
     text-align: center;
     font-family: Sansation;
-    font-size: 27px;
+    font-size: 28px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -131,10 +139,28 @@
     margin-left: 262px;
     color: #000;
     font-family: Sansation;
-    font-size: 32px;
+    font-size: 37px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+  }
+
+  #button-login {
+    position: absolute;
+    margin-top: -220px;
+    margin-left: 430px;
+    width: 237px;
+    height: 50px;
+    background: linear-gradient(180deg, #1E90E2 27.6%, #1e90e27a 73.44%); 
+    border-radius: 30px;
+    border: none;
+    color: #fff;
+    font-family: Sansation;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
   }
 
   #art-mobile {
@@ -200,20 +226,34 @@
     margin-left: 448px;
     color: #000;
     font-family: Sansation;
-    font-size: 32px;
+    font-size: 36px;
+    font-weight: 800;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
   }
 
   #button-login {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    position: absolute;
+    margin-top: -240px;
+    margin-left: 610px;
     width: 237px;
     height: 50px;
-    background: linear-gradient(120deg, #198de1fa 26.64%, #81bce736 79.42%);
-    border-radius: 20px;
+    background: linear-gradient(180deg, #1E90E2 27.6%, #1e90e27a 73.44%); 
+    border-radius: 30px;
     border: none;
+    color: #fff;
+    font-family: Sansation;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
+  }
+
+  #button-login:hover{
+    transform: 1.1 linear;
+    background-color: white;
   }
 
   #art-mobile {

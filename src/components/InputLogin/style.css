@@ -2,7 +2,7 @@
     .input-login {
         position: absolute;
         width: 237px;
-        height: 27px;
+        height: 32px;
         border-radius: 20px;
         padding: 3px;
         margin-left: -194px;
@@ -29,7 +29,7 @@
 
   #img-input-login-email{
     position:absolute;
-    margin-top: 363px;
+    margin-top: 365px;
     background: none;
   }
   
@@ -37,90 +37,88 @@
     height: 30px;
     width: 28px;
     position:absolute;
-    margin-top: 433px;
+    margin-top: 435px;
     background: none;
   }
 
-
-
 @media (min-width: 768px) and (max-width: 1023px) {
-    .input-login {
-        position: absolute;
-        width: 237px;
-        height: 27px;
-        border-radius: 20px;
-        padding: 3px;
-      }
-    
-      #input-login-email {
-        position: absolute;
-        margin-top: 400px;
-        margin-left: 1125px;
-        background-color: #fff;
-      }
-    
-      #input-login-password {
-        position: absolute;
-        margin-top: 500px;
-        margin-left: 1125px;
-        background-color: #fff;
-      }
-    
-      .img-login{
-        position: absolute;
-        margin-left: 1130px;
-        z-index: 2;
-        background-color: transparent;
-      }
-    
-      #img-input-login-email{
-        position: absolute;
-        margin-top: 405px;
-      }
-    
-      #img-input-login-password {
-        position: absolute;
-        margin-top: 500px;
-      }
-}
-
-@media (min-width: 1024px) {
   .input-login {
     position: absolute;
     width: 237px;
-    height: 27px;
+    height: 35px;
     border-radius: 20px;
     padding: 3px;
   }
 
   #input-login-email {
     position: absolute;
-    margin-top: 300px;
-    margin-left: 100px;
+    margin-top: -400px;
+    margin-left: 425px;
     background-color: #fff;
   }
 
   #input-login-password {
     position: absolute;
-    margin-top: -400px;
-    margin-left: 600px;
+    margin-top: -330px;
+    margin-left: 425px;
     background-color: #fff;
   }
 
   .img-login{
     position: absolute;
-    margin-left: 100px;
+    margin-left: 438px;
     z-index: 2;
     background-color: transparent;
   }
 
   #img-input-login-email {
     position: absolute;
-    margin-top: 100px;
+    margin-top: -394px;
   }
 
   #img-input-login-password {
     position: absolute;
-    margin-top: 200px;
+    margin-top: -322px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .input-login {
+    position: absolute;
+    width: 237px;
+    height: 30px;
+    border-radius: 20px;
+    padding: 3px;
+  }
+
+  #input-login-email {
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 605px;
+    background-color: #fff;
+  }
+
+  #input-login-password {
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 605px;
+    background-color: #fff;
+  }
+
+  .img-login{
+    position: absolute;
+    margin-left: 620px;
+    z-index: 2;
+    background-color: transparent;
+  }
+
+  #img-input-login-email {
+    position: absolute;
+    margin-top: -394px;
+  }
+
+  #img-input-login-password {
+    position: absolute;
+    margin-top: -326px;
   }
 }
