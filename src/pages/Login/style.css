@@ -4,7 +4,8 @@
      display: flex;
      align-items: center;
      justify-content: center;
-}
+     background-color: #9dc8e8;
+   }
 
 @media (max-width: 767px) {
     /* Estilos para telas menores */

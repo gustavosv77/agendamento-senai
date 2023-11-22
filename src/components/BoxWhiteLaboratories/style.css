@@ -1,0 +1,689 @@
+@media (max-width: 767px) {
+    /* Estilos para telas menores */
+    #boxWhiteLaboratories {
+      position: absolute;
+      margin: auto;
+      width: 340px;
+      height: 721px;
+      border-radius: 50px;
+      background: #fff;
+      box-shadow: 0px 4px 4px 0px #00000040;
+    }
+  
+    #header-box {
+      position: a;
+      width: 340px;
+      height: 79px;
+      border-radius: 49px 49px 0px 0px;
+      background: #198de1fa;
+    }
+  
+    #menu-img {
+      position: absolute;
+      width: 43px;
+      height: 38px;
+      background-color: transparent;
+      margin-top: 18px;
+      margin-left: 278px;
+    }
+  
+    #title-box {
+      position: absolute;
+      width: 161px;
+      height: 41px;
+      color: #fff;
+      text-align: center;
+      font-family: Inter;
+      font-size: 37px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      margin-left: 85px;
+      margin-top: 16px;
+    }
+  
+    #pesquisar {
+      width: 313px;
+      height: 42px;
+      fill: #fff;
+      stroke-width: 2px;
+      stroke: #716a6a;
+      margin-top: 27px;
+      margin-left: 16px;
+      border-radius: 50px;
+      z-index: 2;
+    }
+  
+    #search-img {
+      position: absolute;
+      width: 35px;
+      height: 35px;
+      margin-top: 30px;
+      margin-left: -300px;
+    }
+  
+    #informatica1 {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 20px;
+      margin-left: 80px;
+    }
+  
+    #info1-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #informatica2 {
+      display: none;
+    }
+  
+    #info2-img {
+      display: none;
+    }
+  
+    #informatica3 {
+      display: none;
+    }
+  
+    #info3-img {
+      display: none;
+    }
+  
+    #usinagem {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 250px;
+      margin-left: 80px;
+    }
+  
+    #usin-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #mecanica {
+      display: none;
+    }
+  
+    #mecan-img {
+      display: none;
+    }
+  
+    #eletrica {
+      display: none;
+    }
+  
+    #eletr-img {
+      display: none;
+    }
+  
+    .title-lab {
+      color: rgba(0, 0, 0, 0.8);
+      text-align: center;
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    #maior-icon {
+      position: absolute;
+      height: 22px;
+      width: 22px;
+      margin-top: 527px;
+      margin-left: 218px;
+    }
+  
+    #menor-icon {
+      position: absolute;
+      height: 22px;
+      width: 20px;
+      margin-top: 527px;
+      margin-left: 101px;
+    }
+  
+    #black-circle {
+      margin-top: 530px;
+      margin-left: 126px;
+    }
+  
+    #white-circle1 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  
+    #white-circle2 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  
+    #white-circle3 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  
+    #menu-mob {
+      position: absolute;
+      width: 292px;
+      height: 721px;
+      background: linear-gradient(
+          219deg,
+          rgba(25, 141, 225, 0.98) 26.64%,
+          rgba(129, 188, 231, 0.21) 79.42%
+        ),
+        #fff;
+      margin-top: -697px;
+      margin-left: 48px;
+      border-radius: 0 50px 50px 0;
+    }
+  
+    .title-menus {
+      position: absolute;
+      width: 237px;
+      height: 759px;
+      color: #fff;
+      font-family: Inknut Antiqua;
+      font-size: 30px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  
+    #config-menu {
+      margin-top: 20px;
+      margin-left: 70px;
+    }
+  
+    #sup-menu {
+      margin-top: 100px;
+      margin-left: 70px;
+    }
+  
+    #sair-menu {
+      margin-top: 180px;
+      margin-left: 70px;
+    }
+  
+    #escuro {
+      border-radius: 0 50px 0 0;
+      position: absolute;
+      width: 292px;
+      height: 90px;
+      background: #000000cc;
+    }
+  
+    #sup-senai {
+      position: absolute;
+      width: 51px;
+      height: 51px;
+      margin-top: 95px;
+      margin-left: 10px;
+      background-color: transparent;
+    }
+  
+    #sair-senai {
+      position:absolute;
+      width: 52px;
+      height: 51px;
+      margin-top: 180px;
+      margin-left: 10px;
+      background: transparent;
+    }
+  
+    #config-senai {
+      position: absolute;
+      width: 45px;
+      height: 51px;
+      margin-top: 15px;
+      margin-left: 10px;
+      background-color: transparent;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 1023px) {
+    /* Estilos para telas médias */
+    #boxWhiteLaboratories {
+      margin: auto;
+      width: 742px;
+      height: 769px;
+      border-radius: 50px;
+      background: #fff;
+      box-shadow: 0px 4px 4px 0px #00000040;
+    }
+  
+    #header-box {
+      width: 742px;
+      height: 92px;
+      border-radius: 49px 49px 0px 0px;
+      background: #198de1fa;
+    }
+  
+    #menu-img {
+      position: absolute;
+      width: 63px;
+      height: 60px;
+      background-color: transparent;
+      margin-top: 15px;
+      margin-left: 660px;
+    }
+  
+    #title-box {
+      position: absolute;
+      width: 273px;
+      height: 57px;
+      color: #fff;
+      font-family: Inter;
+      font-size: 50px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      background-color: transparent;
+      margin-left: 275px;
+      margin-top: 10px;
+    }
+  
+    #pesquisar {
+      width: 381px;
+      height: 51px;
+      fill: #fff;
+      stroke-width: 2px;
+      stroke: #716a6a;
+      margin-top: 27px;
+      margin-left: 200px;
+      border-radius: 50px;
+      z-index: 2;
+    }
+  
+    #search-img {
+      position: absolute;
+      width: 35px;
+      height: 35px;
+      margin-top: 34px;
+      margin-left: -368px;
+      z-index: 2;
+    }
+  
+    #informatica1 {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 30px;
+      margin-left: 50px;
+    }
+  
+    #info1-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #informatica2 {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 30px;
+      margin-left: 292px;
+    }
+  
+    #info2-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #informatica3 {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 30px;
+      margin-left: 520px;
+    }
+  
+    #info3-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #usinagem {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 260px;
+      margin-left: 50px;
+    }
+  
+    #usin-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #mecanica {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 260px;
+      margin-left: 292px;
+    }
+  
+    #mecan-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #eletrica {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 260px;
+      margin-left: 520px;
+    }
+  
+    #eletr-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    .title-lab {
+      color: rgba(0, 0, 0, 0.8);
+      text-align: center;
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    #maior-icon {
+      position: absolute;
+      height: 22px;
+      width: 22px;
+      margin-top: 542px;
+      margin-left: 428px;
+    }
+  
+    #menor-icon {
+      position: absolute;
+      height: 22px;
+      width: 20px;
+      margin-top: 542px;
+      margin-left: 307px;
+    }
+  
+    #black-circle {
+      margin-top: 544px;
+      margin-left: 334px;
+    }
+  
+    #white-circle1 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  
+    #white-circle2 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  
+    #white-circle3 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    /* Estilos para telas maiores */
+    #boxWhiteLaboratories {
+      margin: auto;
+      width: 879px;
+      height: 670px;
+      border-radius: 50px;
+      background: #fff;
+      box-shadow: 0px 4px 4px 0px #00000040;
+    }
+  
+    #header-box {
+      width: 879px;
+      height: 92px;
+      border-radius: 49px 49px 0px 0px;
+      background: #198de1fa;
+    }
+  
+    #menu-img {
+      position: absolute;
+      width: 63px;
+      height: 55px;
+      background-color: transparent;
+      margin-top: 15px;
+      margin-left: 800px;
+    }
+  
+    #title-box {
+      position: absolute;
+      width: 379px;
+      height: 93px;
+      color: #fff;
+      font-family: Inter;
+      font-size: 55px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      background-color: transparent;
+      margin-left: 313px;
+      margin-top: 10px;
+    }
+  
+    #pesquisar {
+      width: 465px;
+      height: 50px;
+      fill: #fff;
+      stroke-width: 2px;
+      stroke: #716a6a;
+      margin-top: 27px;
+      margin-left: 200px;
+      border-radius: 50px;
+      z-index: 2;
+    }
+  
+    #search-img {
+      position: absolute;
+      width: 35px;
+      height: 35px;
+      margin-top: 34px;
+      margin-left: -442px;
+      z-index: 2;
+    }
+  
+    #informatica1 {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 20px;
+      margin-left: 66px;
+    }
+  
+    #info1-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #informatica2 {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 20px;
+      margin-left: 332px;
+    }
+  
+    #info2-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #informatica3 {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 20px;
+      margin-left: 610px;
+    }
+  
+    #info3-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #usinagem {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 250px;
+      margin-left: 66px;
+    }
+  
+    #usin-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #mecanica {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 250px;
+      margin-left: 332px;
+    }
+  
+    #mecan-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    #eletrica {
+      position: absolute;
+      width: 170px;
+      height: 200px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
+      margin-top: 250px;
+      margin-left: 610px;
+    }
+  
+    #eletr-img {
+      width: 115px;
+      height: 100px;
+      margin-top: 12px;
+      margin-left: 22px;
+    }
+  
+    .title-lab {
+      color: rgba(0, 0, 0, 0.8);
+      text-align: center;
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    #maior-icon {
+      position: absolute;
+      height: 22px;
+      width: 22px;
+      margin-top: 467px;
+      margin-left: 470px;
+    }
+  
+    #menor-icon {
+      position: absolute;
+      height: 22px;
+      width: 20px;
+      margin-top: 467px;
+      margin-left: 355px;
+    }
+  
+    #black-circle {
+      margin-top: 470px;
+      margin-left: 378px;
+    }
+  
+    #white-circle1 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  
+    #white-circle2 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  
+    #white-circle3 {
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+  }
+  
