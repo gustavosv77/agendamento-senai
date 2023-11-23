@@ -1,10 +1,10 @@
-import Ambients from "./pages/Ambients"
+import Define from "./pages/Define"
 
 function App() {
 
   return (
     <>
-     <Ambients/>
+     <Define/>
     </>
   )
 }

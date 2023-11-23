@@ -1,11 +1,11 @@
-import BoxWhiteAmbients from "../../components/BoxWhiteAmbients";
+import BoxWhiteDefine from "../../components/BoxWhiteDefine";
 import "./style.css"
 
 const Define = () => {
   return (
     <>
     <div id="container">
-      <BoxWhiteAmbients/>
+      <BoxWhiteDefine/>
     </div>
     </>
   );
