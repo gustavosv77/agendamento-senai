@@ -1,10 +1,10 @@
-import Define from "./pages/Define"
+import SelectTimes from "./pages/Select-Times"
 
 function App() {
 
   return (
     <>
-     <Define/>
+     <SelectTimes/>
     </>
   )
 }
