@@ -1,8 +1,8 @@
 import "./style.css";
 
-const BoxWhiteLaboratories = () => {
+const BoxWhiteAmbients = () => {
   return (
-    <div id="boxWhiteLaboratories">
+    <div id="boxWhiteAmbients">
       <div id="boxRooms">
         <header id="header-box">
           <h1 id="title-box">Ambientes</h1>
@@ -96,25 +96,8 @@ const BoxWhiteLaboratories = () => {
           id="white-circle3"
         />
       </div>
-      <section id="modal">
-        <div id="menu-mob">
-          <header id="escuro"></header>
-          <img src="public/sup-senai.png" alt="" id="sup-senai" />
-          <img src="public/sair-senai.png" alt="" id="sair-senai" />
-          <img src="public/config-senai.png" alt="" id="config-senai" />
-          <h3 id="config-menu" className="title-menus">
-            Configuração
-          </h3>
-          <h3 id="sup-menu" className="title-menus">
-            Suporte
-          </h3>
-          <h3 id="sair-menu" className="title-menus">
-            Sair
-          </h3>
-        </div>
-      </section>
     </div>
   );
 };
 
-export default BoxWhiteLaboratories;
+export default BoxWhiteAmbients ;

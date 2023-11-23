@@ -1,0 +1,86 @@
+@media (max-width: 767px) {
+    #menu-mob {
+        position: absolute;
+        width: 292px;
+        height: 721px;
+        background: linear-gradient(
+            219deg,
+            #198de1fa 26.64%,
+            #81bce736 79.42%
+          ),
+          #fff;
+        margin-top: -697px;
+        margin-left: 48px;
+        border-radius: 0 50px 50px 0;
+      }
+    
+      .title-menus {
+        position: absolute;
+        width: 237px;
+        height: 759px;
+        color: #fff;
+        font-family: Inknut Antiqua;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+    
+      #config-menu {
+        margin-top: 20px;
+        margin-left: 70px;
+      }
+    
+      #sup-menu {
+        margin-top: 100px;
+        margin-left: 70px;
+      }
+    
+      #sair-menu {
+        margin-top: 180px;
+        margin-left: 70px;
+      }
+    
+      #escuro {
+        border-radius: 0 50px 0 0;
+        position: absolute;
+        width: 292px;
+        height: 90px;
+        background: #000000cc;
+      }
+    
+      #sup-senai {
+        position: absolute;
+        width: 51px;
+        height: 51px;
+        margin-top: 95px;
+        margin-left: 10px;
+        background-color: transparent;
+      }
+    
+      #sair-senai {
+        position:absolute;
+        width: 52px;
+        height: 51px;
+        margin-top: 180px;
+        margin-left: 10px;
+        background: transparent;
+      }
+    
+      #config-senai {
+        position: absolute;
+        width: 45px;
+        height: 51px;
+        margin-top: 15px;
+        margin-left: 10px;
+        background-color: transparent;
+      }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) { 
+
+}
+
+@media (min-width: 1024px) {
+
+}

@@ -1,10 +1,10 @@
-import Laboratories from './pages/Laboratories'
+import Ambients from "./pages/Ambients"
 
 function App() {
 
   return (
     <>
-     <Laboratories/>
+     <Ambients/>
     </>
   )
 }
