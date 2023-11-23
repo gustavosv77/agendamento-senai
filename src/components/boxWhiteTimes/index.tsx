@@ -8,8 +8,10 @@ const BoxWhiteTimes = () => {
           <h1 id="title-box-times">Agendamento</h1>
           <img src="public/menu-senai.png" alt="icone de menu" id="menu-img" />
         </header>
-        <h2 id="title-lab1-times">LABORATÓRIO 3 - 17/09/2023</h2>
-        <h2 id="title-lab2-times">SETEMBRO - 2023</h2>
+        <h2 id="title-lab1-times">LABORATÓRIO 3</h2>
+        <h2 id="title-lab2-times">17/09/2023</h2>
+        <h2 id="title-lab3-times">LABORATÓRIO 3 - 17/09/2023</h2>
+        <h2 id="title-lab4-times">SETEMBRO - 2023</h2>
         <img
           src="public/calendario-senai.png"
           alt="calendario simples"
