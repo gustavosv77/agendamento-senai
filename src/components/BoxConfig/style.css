@@ -1,0 +1,269 @@
+@media (max-width: 767px) {
+  #config-box {
+    width: 340px;
+    height: 721px;
+    margin: auto;
+    border-radius: 50px;
+    background: #fff;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+
+  #header-box-config {
+    width: 340px;
+    height: 79px;
+    border-radius: 49px 49px 0px 0px;
+    background: #198de1fa;
+    display: flex;
+    align-items: center;
+  }
+
+  #seta-config {
+    margin-left: 13px;
+    margin-top: 7px;
+    width: 35px;
+    height: 25px;
+  }
+
+  #title-config {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-left: 80px;
+    width: 169px;
+    height: 41px;
+    color: #fff;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  #central {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 60px;
+    margin-left: 30px;
+  }
+
+  #central2 {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+  }
+
+  #central3 {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 100px;
+    margin-left: 30px;
+  }
+
+  #central4 {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+
+  .config-texts {
+    width: 441px;
+    height: 78px;
+    color: #000;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .icons-config {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  #config-box {
+    width: 742px;
+    height: 769px;
+    margin: auto;
+    border-radius: 50px;
+    background: #fff;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+
+  #header-box-config {
+    width: 745px;
+    height: 92px;
+    border-radius: 49px 49px 0px 0px;
+    background: #198de1fa;
+    display: flex;
+    align-items: center;
+  }
+
+  #seta-config {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 55px;
+    height: 40px;
+  }
+
+  #title-config {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-left: 100px;
+    width: 575px;
+    height: 63px;
+    color: #fff;
+    font-family: Inter;
+    font-size: 57px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  #central {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 60px;
+    margin-left: 40px;
+  }
+
+  #central2 {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+
+  #central3 {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 100px;
+    margin-left: 40px;
+  }
+
+  #central4 {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 30px;
+    margin-left: 40px;
+  }
+
+  .config-texts {
+    width: 441px;
+    height: 78px;
+    color: #000;
+    font-family: Inter;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .icons-config {
+    width: 45px;
+    height: 45px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #config-box {
+    width: 960px;
+    height: 776px;
+    margin: auto;
+    border-radius: 50px;
+    background: #fff;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+
+  #header-box-config {
+    width: 960px;
+    height: 92px;
+    border-radius: 49px 49px 0px 0px;
+    background: #198de1fa;
+    display: flex;
+    align-items: center;
+  }
+
+  #seta-config {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 55px;
+    height: 40px;
+  }
+
+  #title-config {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-left: 190px;
+    width: 575px;
+    height: 63px;
+    color: #fff;
+    font-family: Inter;
+    font-size: 57px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  #central {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 60px;
+    margin-left: 40px;
+  }
+
+  #central2 {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+
+  #central3 {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 100px;
+    margin-left: 40px;
+  }
+
+  #central4 {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 30px;
+    margin-left: 40px;
+  }
+
+  .config-texts {
+    width: 441px;
+    height: 78px;
+    color: #000;
+    font-family: Inter;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .icons-config {
+    width: 50px;
+    height: 50px;
+  }
+}

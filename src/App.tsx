@@ -1,10 +1,10 @@
-import SelectTimes from "./pages/Select-Times"
+import UpdateData from "./pages/Update"
 
 function App() {
 
   return (
     <>
-     <SelectTimes/>
+     <UpdateData/>
     </>
   )
 }
