@@ -41,8 +41,8 @@
 
   #title-lab1-times {
     position: absolute;
-    width: 317px;
-    height: 26px;
+    width: 380px;
+    height: 28px;
     text-shadow: 3px 3px 3px #00000080;
     font-family: Inter;
     font-size: 24px;
@@ -51,7 +51,7 @@
     line-height: normal;
     letter-spacing: 1.6px;
     color: #137dcefb;
-    margin-top: 60px;
+    margin-top: 33px;
     margin-left: 65px;
   }
 
@@ -61,28 +61,32 @@
     height: 26px;
     text-shadow: 3px 3px 3px #00000080;
     font-family: Inter;
-    font-size: 28px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 0;
     line-height: normal;
     letter-spacing: 2.4px;
     color: #137dcefb;
-    margin-top: 115px;
-    margin-left: 38px;
+    margin-top: 90px;
+    margin-left: 95px;
+  }
+
+  #title-lab3-times {
+    display: none;
+  }
+
+  #title-lab4-times {
+    display: none;
   }
 
   #calendario-img {
-    position: absolute;
-    width: 320px;
-    height: 359px;
-    margin-top: 210px;
-    margin-left: 10px;
+    display: none;
   }
 
   #maior-icon-tim {
     position: absolute;
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     margin-top: 585px;
     margin-left: 150px;
   }
@@ -93,6 +97,184 @@
     height: 35px;
     margin-top: -60px;
     margin-left: 14px;
+  }
+
+  #box-blue-times {
+    position: absolute;
+    width: 293px;
+    height: 368px;
+    border-radius: 25px;
+    background: #0d99ff;
+    margin-top: 193px;
+    margin-left: 23px;
+  }
+
+  #box-white-in-blue {
+    position: absolute;
+    width: 253px;
+    height: 346px;
+    border-radius: 25px;
+    background: #fff;
+    margin-top: 12px;
+    margin-left: 20px;
+  }
+
+  #clip-times {
+    position: absolute;
+    width: 190.726px;
+    height: 69.859px;
+    margin-top: -62px;
+    margin-left: 34px;
+  }
+
+  #little-box1 {
+    position: absolute;
+    width: 214px;
+    height: 62px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #fff;
+    margin-top: 47px;
+    margin-left: 19px;
+  }
+
+  #little-box2 {
+    position: absolute;
+    width: 214px;
+    height: 62px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #fff;
+    margin-top: 158px;
+    margin-left: 19px;
+  }
+
+  #little-box3 {
+    position: absolute;
+    width: 214px;
+    height: 62px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #fff;
+    margin-top: 264px;
+    margin-left: 19px;
+  }
+
+  #morning-text {
+    position: absolute;
+    width: 118px;
+    height: 34px;
+    color: #000;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+    margin-top: 10px;
+    margin-left: 82px;
+  }
+
+  #afternoon-text {
+    position: absolute;
+    width: 118px;
+    height: 34px;
+    color: #000;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+    margin-top: 125px;
+    margin-left: 72px;
+  }
+
+  #night-text {
+    position: absolute;
+    width: 118px;
+    height: 34px;
+    color: #000;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+    margin-top: 240px;
+    margin-left: 90px;
+  }
+
+  .Person-text {
+    width: 122px;
+    height: 24px;
+    color: #000;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+  }
+
+  #person1 {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 45px;
+  }
+
+  #person2 {
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 45px;
+  }
+
+  #person3 {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 45px;
+  }
+
+  #person4 {
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 45px;
+  }
+
+  #person5 {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 45px;
+  }
+
+  #person6 {
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 45px;
+  }
+
+  #circulo1 {
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 8px;
+  }
+
+  #circulo2 {
+    position: absolute;
+    margin-top: 42px;
+    margin-left: 8px;
+  }
+
+  #red-trash {
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 165px;
+  }
+
+  #caderno-verde {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 94px;
   }
 }
 
@@ -139,7 +321,7 @@
 
   #title-lab1-times {
     position: absolute;
-    width: 435px;
+    width: 700px;
     height: 122px;
     text-shadow: 3px 3px 3px #00000080;
     font-family: Inter;
@@ -149,44 +331,218 @@
     line-height: normal;
     letter-spacing: 4px;
     color: #137dcefb;
-    margin-top: 40px;
-    margin-left: 195px;
+    margin-top: 13px;
+    margin-left: 179px;
   }
 
   #title-lab2-times {
-    position: absolute;
-    width: 435px;
-    height: 61px;
-    text-shadow: 3px 3px 3px #00000080;
-    font-family: Inter;
-    font-size: 42px;
-    font-style: normal;
-    font-weight: 0;
-    line-height: normal;
-    letter-spacing: 4px;
-    color: #137dcefb;
-    margin-top: 120px;
-    margin-left: 178px;
+    display: none;
+  }
+
+  #title-lab3-times {
+    display: none;
+  }
+
+  #title-lab4-times {
+    display: none;
   }
 
   #calendario-img {
-    position: absolute;
-    height: 408px;
-    width: 448px;
-    margin-top: 210px;
-    margin-left: 157px;
+    display: none;
   }
 
   #maior-icon-tim {
-    display: none;
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    margin-top: 628px;
+    margin-left: 336px;
   }
 
   #seta-direita-tim {
     position: absolute;
     width: 62px;
-    height: 38px;
-    margin-top: -60px;
+    height: 48px;
+    margin-top: -67px;
     margin-left: 14px;
+  }
+
+  #box-blue-times {
+    position: absolute;
+    width: 369px;
+    height: 484px;
+    border-radius: 25px;
+    background: #0d99ff;
+    margin-top: 138px;
+    margin-left: 175px;
+  }
+
+  #box-white-in-blue {
+    position: absolute;
+    width: 314px;
+    height: 445px;
+    border-radius: 25px;
+    background: #fff;
+    margin-top: 25px;
+    margin-left: 24px;
+  }
+
+  #clip-times {
+    position: absolute;
+    width: 236.577px;
+    height: 88.744px;
+    margin-top: -88px;
+    margin-left: 39px;
+  }
+
+  #little-box1 {
+    position: absolute;
+    width: 266px;
+    height: 79px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #fff;
+    margin-top: 60px;
+    margin-left: 26px;
+  }
+
+  #little-box2 {
+    position: absolute;
+    width: 266px;
+    height: 79px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #fff;
+    margin-top: 215px;
+    margin-left: 26px;
+  }
+
+  #little-box3 {
+    position: absolute;
+    width: 266px;
+    height: 79px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #fff;
+    margin-top: 354px;
+    margin-left: 26px;
+  }
+
+  #morning-text {
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+    margin-top: 10px;
+    margin-left: 82px;
+  }
+
+  #afternoon-text {
+    position: absolute;
+    width: 192px;
+    height: 40px;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+    margin-top: 168px;
+    margin-left: 72px;
+  }
+
+  #night-text {
+    position: absolute;
+    width: 152px;
+    height: 33px;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+    margin-top: 310px;
+    margin-left: 90px;
+  }
+
+  .Person-text {
+    width: 200px;
+    height: 25px;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 2.5px;
+  }
+
+  #person1 {
+    position: absolute;
+    margin-top: -1px;
+    margin-left: 45px;
+  }
+
+  #person2 {
+    position: absolute;
+    margin-top: 51px;
+    margin-left: 45px;
+  }
+
+  #person3 {
+    position: absolute;
+    margin-top: -1px;
+    margin-left: 45px;
+  }
+
+  #person4 {
+    position: absolute;
+    margin-top: 51px;
+    margin-left: 45px;
+  }
+
+  #person5 {
+    position: absolute;
+    margin-top: -1px;
+    margin-left: 45px;
+  }
+
+  #person6 {
+    position: absolute;
+    margin-top: 51px;
+    margin-left: 45px;
+  }
+
+  #circulo1 {
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 8px;
+  }
+
+  #circulo2 {
+    position: absolute;
+    margin-top: 58px;
+    margin-left: 8px;
+  }
+
+  #red-trash {
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 220px;
+  }
+
+  #caderno-verde {
+    position: absolute;
+    margin-top: 57px;
+    margin-left: 110px;
   }
 }
 
@@ -231,7 +587,7 @@
     margin-top: 10px;
   }
 
-  #title-lab1-times {
+  #title-lab3-times {
     position: absolute;
     width: 652px;
     height: 59px;
@@ -247,7 +603,7 @@
     margin-left: 170px;
   }
 
-  #title-lab2-times {
+  #title-lab4-times {
     position: absolute;
     width: 435px;
     height: 61px;
@@ -261,6 +617,14 @@
     color: #137dcefb;
     margin-top: 130px;
     margin-left: 485px;
+  }
+
+  #title-lab1-times {
+    display: none;
+  }
+
+  #title-lab2-times {
+    display: none;
   }
 
   #calendario-img {
@@ -307,7 +671,7 @@
     position: absolute;
     width: 255.17px;
     height: 108.143px;
-    margin-top: -103px;
+    margin-top: -102px;
     margin-left: 39px;
   }
 
@@ -389,7 +753,7 @@
     margin-left: 97px;
   }
 
-  .Person-text{
+  .Person-text {
     width: 200px;
     height: 25px;
     color: #000;
@@ -401,65 +765,63 @@
     letter-spacing: 2.5px;
   }
 
-  #person1{
+  #person1 {
     position: absolute;
     margin-top: -1px;
     margin-left: 45px;
   }
 
-  #person2{
+  #person2 {
     position: absolute;
     margin-top: 51px;
     margin-left: 45px;
   }
 
-  #person3{
+  #person3 {
     position: absolute;
     margin-top: -1px;
     margin-left: 45px;
   }
 
-  #person4{
+  #person4 {
     position: absolute;
     margin-top: 51px;
     margin-left: 45px;
   }
 
-  #person5{
+  #person5 {
     position: absolute;
     margin-top: -1px;
     margin-left: 45px;
   }
 
-  #person6{
+  #person6 {
     position: absolute;
     margin-top: 51px;
     margin-left: 45px;
   }
 
-  #circulo1{
+  #circulo1 {
     position: absolute;
     margin-top: 7px;
     margin-left: 8px;
-    
   }
 
-  #circulo2{
+  #circulo2 {
     position: absolute;
     margin-top: 58px;
     margin-left: 8px;
   }
 
-  #red-trash{
+  #red-trash {
     position: absolute;
     margin-top: 6px;
     margin-left: 220px;
-}
+  }
 
-#caderno-verde{
+  #caderno-verde {
     position: absolute;
     margin-top: 57px;
     margin-left: 110px;
-}
-
+  }
 }
